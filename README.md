@@ -1,6 +1,5 @@
-# amazon-sales-performance-dashboard
-An end-to-end Power BI project analyzing Amazon e-commerce sales data with interactive dashboards, KPI tracking, Power Query data cleaning, and DAX measures to generate actionable business insights.
 # Amazon Sales Performance Dashboard | Power BI
+An end-to-end Power BI project analyzing Amazon e-commerce sales data with interactive dashboards, KPI tracking, Power Query data cleaning, and DAX measures to generate actionable business insights.
 
 ## 📌 Project Overview
 This project analyzes Amazon e-commerce sales data using Power BI to uncover sales trends, customer behavior, product performance, and operational insights. The dashboard enables stakeholders to monitor key business metrics and make data-driven decisions.
@@ -69,12 +68,11 @@ Businesses need a centralized dashboard to monitor sales performance, identify t
 ## 📷 Dashboard Preview
 
 ### Executive Overview
-(Add Screenshot Here)
+<img width="1342" height="737" alt="image" src="https://github.com/user-attachments/assets/0da3d2d7-a620-4e69-8728-b370582c5964" />
 
 ### Detailed Analysis
-(Add Screenshot Here)
+<img width="1337" height="742" alt="image" src="https://github.com/user-attachments/assets/9b397a79-c564-429e-9cbf-de0ade559ccb" />
 
----
 
 ## 📂 Dataset
 Amazon E-commerce Sales Dataset
